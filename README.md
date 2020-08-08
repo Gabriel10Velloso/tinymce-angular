@@ -1,7 +1,7 @@
 
 # https://github.com/Gabriel10Velloso/angular-editor-fabric-js
 # Angular and fabric.js https://www.npmjs.com/package/fabric
-## https://github.com/topics/fabric   git
+## https://github.com/topics/fabric       ----     git
 ## https://www.youtube.com/watch?v=RcLCeUR-iQI
 
 # Paint App Tutorial | HTML5, Canvas API, JavaScript, ES6 | #1 | Getting Started
