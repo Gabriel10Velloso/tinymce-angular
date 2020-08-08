@@ -6,6 +6,7 @@
 ## https://www.youtube.com/watch?v=jt4IHKCqAHk
 
 # Angular and fabric.js https://www.npmjs.com/package/fabric
+## https://github.com/topics/fabric   git
 ## https://www.youtube.com/watch?v=RcLCeUR-iQI
 
 ### https://github.com/topics/pencil -- Pencil
