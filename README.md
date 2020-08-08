@@ -2,6 +2,9 @@
 # Paint App Tutorial | HTML5, Canvas API, JavaScript, ES6 | #1 | Getting Started
 ## https://www.youtube.com/watch?v=j-FXrVsmgvw&list=PLmBDjX1Gd2nNlUJ6EN_cSHL_FXJjP-MYv
 
+# Angular
+## https://www.youtube.com/watch?v=jt4IHKCqAHk
+
 ### https://github.com/topics/pencil -- Pencil
 ### square rectangle image editor https://www.npmjs.com/package/ngx-image-cropper Corta imagen 
 ### https://www.youtube.com/watch?v=JiLHwHa8AsI
