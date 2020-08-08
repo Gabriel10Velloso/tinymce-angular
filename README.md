@@ -1,4 +1,11 @@
 
+````
+# Angular 9 Drag and Drop File Upload with Progress Bar using Node js API
+### https://www.youtube.com/watch?v=lBCK-CqLZYE
+### https://medium.com/@tarekabdelkhalek/how-to-create-a-drag-and-drop-file-uploading-in-angular-78d9eba0b854
+### https://github.com/progtarek/angular-drag-n-drop-directive
+````
+
 # https://github.com/Gabriel10Velloso/angular-editor-fabric-js
 # Angular and fabric.js https://www.npmjs.com/package/fabric
 ## https://github.com/topics/fabric       ----     git
