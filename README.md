@@ -4,6 +4,7 @@
 ### https://www.youtube.com/watch?v=JiLHwHa8AsI
 ### https://www.youtube.com/watch?v=f1qQOorMKGo
 ### https://www.youtube.com/watch?v=Sh3_k_QPGzw
+### https://github.com/theNBS/ng2-adsk-forge-viewer --- Verificar  Autodesk Forge Viewer
 
 ### https://www.npmjs.com/package/shape-drawing   Desenho
 
