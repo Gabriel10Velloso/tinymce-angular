@@ -1,7 +1,7 @@
-# square rectangle image editor https://www.npmjs.com/package/ngx-image-cropper
-# https://www.youtube.com/watch?v=JiLHwHa8AsI
-# https://www.youtube.com/watch?v=f1qQOorMKGo
-# https://www.youtube.com/watch?v=Sh3_k_QPGzw
+### square rectangle image editor https://www.npmjs.com/package/ngx-image-cropper
+### https://www.youtube.com/watch?v=JiLHwHa8AsI
+### https://www.youtube.com/watch?v=f1qQOorMKGo
+### https://www.youtube.com/watch?v=Sh3_k_QPGzw
 
 
 
