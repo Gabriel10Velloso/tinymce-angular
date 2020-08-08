@@ -7,6 +7,8 @@
 
 ### https://stackblitz.com/edit/basic-draw-app?file=src%2Fapp%2Fcanvas%2Fcanvas.component.html  --- desenhando ecemplo
 
+### https://www.npmjs.com/search?q=keywords:shape%20drawing  ferramentas pra desenhar
+
 
 
 
