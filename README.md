@@ -5,6 +5,9 @@
 # Angular
 ## https://www.youtube.com/watch?v=jt4IHKCqAHk
 
+# Angular and fabric.js https://www.npmjs.com/package/fabric
+## https://www.youtube.com/watch?v=RcLCeUR-iQI
+
 ### https://github.com/topics/pencil -- Pencil
 ### square rectangle image editor https://www.npmjs.com/package/ngx-image-cropper Corta imagen 
 ### https://www.youtube.com/watch?v=JiLHwHa8AsI
