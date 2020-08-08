@@ -9,6 +9,28 @@
 
 ### https://www.npmjs.com/search?q=keywords:shape%20drawing  ferramentas pra desenhar
 
+### https://stackblitz.com/edit/ngx-image-editor-demo --- muito bom 
+
+### https://github.com/hggeorgiev/ngx-image-editor
+
+### https://github.com/pavlik111188/angular-image-editor
+
+### https://ej2.syncfusion.com/angular/documentation/diagram/shapes/
+
+### https://stackblitz.com/edit/angular-editor-wysiwyg
+
+### https://stackblitz.com/edit/angular-polygon-calculations-d3
+
+### https://stackblitz.com/edit/ngx-color-picker
+
+### https://www.npmjs.com/package/scratch-paint
+
+### https://www.npmjs.com/search?q=keywords:paint
+
+### https://www.npmjs.com/package/react-paint
+
+### https://stackblitz.com/edit/rte-sample-ngmodel
+
 
 
 
