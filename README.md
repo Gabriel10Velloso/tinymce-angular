@@ -1,3 +1,4 @@
+# square rectangle image editor https://www.npmjs.com/package/ngx-image-cropper
 # Official TinyMCE Angular Component
 
 ## About
