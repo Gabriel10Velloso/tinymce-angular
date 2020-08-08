@@ -1,3 +1,5 @@
+
+### https://github.com/topics/pencil -- Pencil
 ### square rectangle image editor https://www.npmjs.com/package/ngx-image-cropper Corta imagen 
 ### https://www.youtube.com/watch?v=JiLHwHa8AsI
 ### https://www.youtube.com/watch?v=f1qQOorMKGo
